@@ -1,0 +1,11 @@
+div.social {
+    display: flex;
+    justify-content: space-around;
+    font-size: 2.4em;
+    flex-direction: row;
+    margin-top: 0.5em;
+  }
+  .social i {
+    color: #bac6d9;
+  }
+  
